@@ -1,2 +1,3 @@
-# chess-puzzles
- chess puzzles I made lol
+# Chess Puzzles I made
+i'll add more soon\
+enjoy. ♟️
