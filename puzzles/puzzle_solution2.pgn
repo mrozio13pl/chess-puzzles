@@ -1,0 +1,19 @@
+["White to move and draw!"]
+[Date "2022.02.04"]
+[Result "1/2-1/2"]
+[FEN "4K3/7p/8/3N3p/6k1/8/3B1p2/8 w - - 0 1"]
+
+1. Ne3+ (1. Bh6 {If white does something random like moving his bishop...} Kf3 (1... f1=Q {Keep in mind that if black just promotes white can just fork black's
+king and newly promoted queen} 2. Ne3+ Kf3 3. Nxf1) 2. {White has to sacrifice his
+bishop} Ne3 Ke2 3. Ke7 3... h4 4. Kf6 h3 5. Bf4 h2 {White will have
+to take h2 pawn and lost the defender of the knight which black can take
+immediately and promote the pawn as white's bishop can not stop it.} 6. Bxh2 Kxe3) 1... Kf3 2. Nf1 Ke2 3. Nh2
+Kxd2 4. Kf7 Ke2 (4... Ke3 5. Kg7 (5. Kf6 {This move is a blunder, because black can just block white's king with Kf4 and push his pawn} Kf4 6. Nf1 h4) 5... Kf4 (5... h4 6. Kh6
+Kf4 7. Kh5 Kg3 8. Nf1+ Kg2 9. Ne3+ Kg3 10. Nf1+ {Black has to still protect his pawn on h4, but white can always respond with check, and if black tries to stay on h3, white can just waste a move with for example knight d2, because black's position is now frozen.})) 5. {The only move is Kf6,
+because if now black's pawn tries to advance white will easily stop it, because
+the knight is not only blocking pawn on h5 and f2 but also blocking black's king
+escaping squares} Kf6 (5. Kg7 {If Kg7 white has no way to stop black's pawn on h5,
+black will trade f2 pawn for the knight by promoting it and white can't stop
+blacks h5 pawn} f1=Q 6. Nxf1
+Kxf1 7. Kh6 h4) 5... h6 (5... f1=Q+ 6. Nxf1 Kxf1 7. Kg5) 6. Kg6 f1=Q 7. Nxf1
+Kxf1 8. Kxh5 {Black's last pawn will also get captured, resulting in a draw} 1/2-1/2

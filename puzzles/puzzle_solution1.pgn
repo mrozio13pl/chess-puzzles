@@ -1,0 +1,39 @@
+["White to move and win!"]
+[Date "2022.02.07"]
+[Result "1-0"]
+[FEN "8/5Npk/4B2p/1p5K/3Q4/q5r1/8/5b2 w - - 0 1"]
+
+{In this position black is up a rook and 3 pawns for a bishop and if white
+doesn't do anything black will start an attack. White has a few checks, but a
+move like queen e4 check just allows black to block with check, so the only
+option left is bishop check.} 1. Bf5+ {Bishop f5 is the only move.} 1... Kg8
+{Now, we have to realize that every move has to be a check, otherwise black will
+start a deadly attack. We also need to realize if we let black escape the cage
+and get to the center, black's pieces will be able to defend the king. Queen d8
+check allows black's queen to block the check and white's attack will not work.
+It seems that white's attack is hopeless.} ({Now blocking the check simply
+allows mate in just 2 moves.} 1... g6+ 2. Bxg6+ Kg8 3. Qh8#) 2. Nxh6+ {But white
+can play brilliant move knight takes h6 !!} 2... gxh6 {Black has to accept the
+knight sacrifice. If he doesn't black will be mated instantly.} 3. Be6+ {White
+now has to play bishop e6 check} 3... Kh7 {King f8 allows mate in 3, so black
+plays king h7} 4. Qe4+ {White finally has to move his queen to e4} 4... Kh8
+{Black goes to h8} 5. Qe5+ {Queen e5 is the only move} 5... Kh7 {King h7} (5...
+Rg7 {Blocking with he rook still allows white to win...} 6. Qb8+ {...only if
+white plays queen b8 check} 6... Kh7 {King h7 is kinda forced} 7. Bf5+ {White
+now wins the rook with bishop f5, but is still down 2 pawns} 7... Rg6 {Rook g6
+is forced} 8. Bxg6+ {White takes it} 8... Kg7 {King g7 is also forced} 9. Qe5+
+{Queen e5 is the only move} 9... Kg8 {King f7 allows faster mate, king g8 is
+played} 10. Qe6+ {Queen e6 only move again} 10... Kh8 {King h8 lasts longer} 11.
+Qf6+ {Now its just mate in a few moves} 11... Kg8 12. Qf7+ Kh8 13. Qh7#) 6. Qf5+
+{Queen f5 check, another only move} 6... Kg7 {Black goes to h7} 7. Qf7+ {White
+responds with queen f7} 7... Kh8 {King h8 is forced} 8. Qf6+ {White goes to f6}
+8... Rg7 {Black blocks with the rook.} (8... Kh7 {King to h7 allows mate in 1}
+9. Qxh6#) 9. Qd8+ {Remember white can't take the bishop on f1 because it's not
+check, instead let's play queen d8.} 9... Kh7 {King h7 is kinda forced again.}
+10. Bf5+ {Bishop f5 wins the rook as shown before.} 10... Rg6 {Black is forced
+to block.} 11. Bxg6+ {White takes with check.} 11... Kg7 {King g7 is forced} 12.
+Qd4+ {Queen d4} 12... Kg8 {King g8 lasts longer} 13. Qd5+ {White has to start a
+staircase with queen d5 check.} 13... Kh8 {King h8 is the best move} 14. Qe5+
+{White continues the staircase} 14... Kg8 {King g8 is forced.} 15. Qe6+ {Queen
+e6 is the last key move, and white will now easily mate black in just 3 moves}
+15... Kh8 16. Qf6+ Kg8 17. Qf7+ Kh8 18. Qh7# 1-0
